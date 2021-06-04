@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joy-i
-- 👀 I’m interested in wdeb devlopment
+- 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on full-stack web devlopment projects.
 - 📫 How to reach me sakshi12502negi@gmail.com
